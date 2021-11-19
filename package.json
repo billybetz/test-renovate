@@ -1,0 +1,26 @@
+{
+  "name": "test-renovate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billybetz/test-renovate.git"
+  },
+  "dependencies": {
+    "date-fns": "^2.16.1"
+  },
+  "devDependencies": {
+    "@types/date-fns": "^2.6.0",
+    "renovate": "^29.13.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billybetz/test-renovate/issues"
+  },
+  "homepage": "https://github.com/billybetz/test-renovate#readme"
+}
