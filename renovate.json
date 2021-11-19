@@ -1,13 +1,12 @@
 {
-  "extends": [
-    "config:base"
-  ],
+  "labels": ["dependencies"],
   "rangeStrategy": "pin",
   "packageRules": [
     {
-      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
-      "automerge": false
+      "matchUpdateTypes": ["pin"],
+      "automerge": true
     }
   ],
-  "assignees": ["billybetz"]
+  "assignees": ["billybetz"],
+  "reviewers": ["billybetz"]
 }
