@@ -11,7 +11,7 @@
     "url": "git+https://github.com/billybetz/test-renovate.git"
   },
   "dependencies": {
-    "date-fns": "2.26.0",
+    "date-fns": "4.1.0",
     "node-cache": "5.1.2",
     "express": "4.17.1"
   },
