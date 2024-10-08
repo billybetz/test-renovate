@@ -13,7 +13,7 @@
   "dependencies": {
     "date-fns": "2.26.0",
     "node-cache": "5.1.2",
-    "express": "4.17.1"
+    "express": "4.21.1"
   },
   "devDependencies": {
     "@types/date-fns": "2.6.0",
